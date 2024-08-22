@@ -1,2 +1,2 @@
 # cypress
-Cypress automatic testing
+Cypress automation
